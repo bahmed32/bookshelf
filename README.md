@@ -2,22 +2,23 @@
 Introducing Book Haven, your personalized virtual bookshelf designed to enhance your reading journey! With Book Haven, you can effortlessly track your reading progress, share insightful reviews, and stay motivated to finish every book you start. Immerse yourself in the joy of reading with our intuitive progress bar, which dynamically updates as you flip through pages, keeping you engaged and on track. Never miss a beat with our convenient reminders and notifications, delivered straight to your inbox. Join Book Haven today and unlock the ultimate reading experience, where every page turned brings you closer to literary fulfillment.
 
 ### Homepage 
-![homepage](http://url/to/img.png)
-
-## Search item open
-![Search item](http://url/to/img.png)
+![homepage](https://github.com/bahmed32/bookshelf/blob/main/front-end/public/homepage.png?raw=true)
 
 ## Search item description
-![Search item](http://url/to/img.png)
+![Search item](https://github.com/bahmed32/bookshelf/blob/main/front-end/public/search.png?raw=true)
 
-## My reviews
-![review page](http://url/to/img.png)
+## Search item open
+![Search item](https://github.com/bahmed32/bookshelf/blob/main/front-end/public/searchopen.png?raw=true)
 
 ## My progress
-![progress page](http://url/to/img.png)
+![progress page](https://github.com/bahmed32/bookshelf/blob/main/front-end/public/myprogress.png?raw=true)
+
+## My reviews
+![review page](https://github.com/bahmed32/bookshelf/blob/main/front-end/public/myreviews.png?raw=true)
 
 ## My profile
-![profile page](http://url/to/img.png) 
+![profile page](https://github.com/bahmed32/bookshelf/blob/main/front-end/public/profile.png?raw=true) 
+
 
 
 
