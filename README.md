@@ -4,20 +4,20 @@ Introducing Book Haven, your personalized virtual bookshelf designed to enhance 
 ### Homepage 
 ![homepage](https://github.com/bahmed32/bookshelf/blob/main/front-end/public/homepage.png?raw=true)
 
-## Search item description
+### Search item description
 ![Search item](https://github.com/bahmed32/bookshelf/blob/main/front-end/public/search.png?raw=true)
 
-## Search item open
+### Search item open
 ![Search item](https://github.com/bahmed32/bookshelf/blob/main/front-end/public/searchopen.png?raw=true)
 
-## My progress
+### My progress
 ![progress page](https://github.com/bahmed32/bookshelf/blob/main/front-end/public/myprogress.png?raw=true)
 
-## My reviews
+### My reviews
 ![review page](https://github.com/bahmed32/bookshelf/blob/main/front-end/public/myreviews.png?raw=true)
 
-## My profile
-![profile page](https://github.com/bahmed32/bookshelf/blob/main/front-end/public/profile.png?raw=true) 
+### My profile
+![profile page](https://github.com/bahmed32/bookshelf/blob/main/front-end/public/myprofile.png?raw=true) 
 
 
 
